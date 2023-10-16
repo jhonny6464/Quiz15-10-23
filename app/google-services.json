@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "925842126665",
+    "firebase_url": "https://baseinformaticapp-default-rtdb.firebaseio.com/",
+    "project_id": "baseinformaticapp",
+    "storage_bucket": "baseinformaticapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925842126665:android:640684c293f9ac0cb24c98",
+        "android_client_info": {
+          "package_name": "com.example.informaticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmShfW490wn8Aybutk_R1BJuSJtaC3Wa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
